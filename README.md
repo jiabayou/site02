@@ -34,3 +34,9 @@
 4. 第四次提交项目代码
 	修改了 my.html  背景色 为 yellowgreen
 	添加了 favicon.ico
+
+5. 第五次提交项目代码
+	删除了 my.html 
+	rm -f [文件名称]  强制删除本地文件
+	git rm  [文件名称] 删除git仓库文件
+	
