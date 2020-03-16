@@ -22,3 +22,10 @@
 	修改了 index.html 背景色
 	修改了 list.html  背景色
 	修改了 README.md
+
+
+3. 第三次提交项目代码
+	修改了 index.html 背景色 为 blue
+	修改了 list.html  背景色 为 pink
+	修改了 README.md
+	添加了 my.html
