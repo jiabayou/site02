@@ -11,8 +11,14 @@
 
 
 
+
 ## 提交日志
 1. 第一次提交项目代码
 	添加了 index.html 
 	添加了 list.html 
 	添加了 README.md
+
+2. 第二次提交项目代码
+	修改了 index.html 背景色
+	修改了 list.html  背景色
+	修改了 README.md
